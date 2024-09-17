@@ -16,3 +16,10 @@ $ chmod +x script.sh
 $ ./script.sh
 _rwxr_xr__ 4096 script.sh
 ```
+- [x] Learn NestJs
+- [x] Develop Task Management system (learning project)
+- [ ] use containerization
+- [ ] deploy it in azure
+- [ ] apply scalability
+- [ ] add a load balancer
+- [ ] Create a personal website using nestjs, vuejs, firebase and deploy it in azure considering good system design!
